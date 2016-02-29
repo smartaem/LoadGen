@@ -1,0 +1,1 @@
+Start-Process "C:\Stresstest\PressureService.exe" -Args "-console" -NoNewWindow
